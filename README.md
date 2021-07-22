@@ -1,2 +1,2 @@
 # HALE
-hale code
+HALE Research Internship Project 
